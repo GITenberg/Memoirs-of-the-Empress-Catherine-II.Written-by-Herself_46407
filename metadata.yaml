@@ -1,0 +1,47 @@
+_repo: Memoirs-of-the-Empress-Catherine-II.Written-by-Herself_46407
+_version: 0.1.0
+alternative_title: Mémoires de l'impératrice Catherine II. English
+contributor:
+  translator:
+    agent_name: Herzen, Aleksandr
+    aliases:
+    - Герцен, Александр
+    - Herzen, Alexander
+    - Hertzen, Aleksandr Ivanovich
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '42905'
+    url: http://www.gutenberg.org/2009/agents/42905
+covers:
+- cover_type: archival
+  image_path: 46407-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Catherine II, Empress of Russia
+    aliases:
+    - Catharine, the Great
+    - Екатерина II, Empress of Russia
+    - Katharina, die Grosse
+    - Catalina, la Grande
+    birthdate: 1729
+    deathdate: 1796
+    gutenberg_agent_id: '42903'
+    url: http://www.gutenberg.org/2009/agents/42903
+description: ''
+gutenberg_issued: '2014-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Empresses -- Russia -- Biography'
+- !lcsh 'Russia -- History -- Catherine II, 1762-1796'
+- !lcsh 'Catherine II, Empress of Russia, 1729-1796'
+title: 'Memoirs of the Empress Catherine II.
+
+  Written by Herself'
+url: http://www.gutenberg.org/ebooks/46407
