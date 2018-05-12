@@ -28,6 +28,8 @@ creator:
     gutenberg_agent_id: '42903'
     url: http://www.gutenberg.org/2009/agents/42903
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46407#Memoirs-of-the-Empress-Catherine-II.Written-by-Herself
 gutenberg_issued: '2014-07-25'
 gutenberg_type: Text
 identifiers:
